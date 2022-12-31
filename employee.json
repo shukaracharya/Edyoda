@@ -1,0 +1,37 @@
+[
+    {
+        "Name": "John Smith",
+        "DOB": "01/01/1970",
+        "Height": "6'0\"",
+        "City": "New York",
+        "State": "NY"
+    },
+    {
+        "Name": "Jane Doe",
+        "DOB": "03/15/1980",
+        "Height": "5'5\"",
+        "City": "Los Angeles",
+        "State": "CA"
+    },
+    {
+        "Name": "Bob Johnson",
+        "DOB": "07/20/1985",
+        "Height": "5'10\"",
+        "City": "Chicago",
+        "State": "IL"
+    },
+    {
+        "Name": "Sara Williams",
+        "DOB": "11/30/1990",
+        "Height": "5'6\"",
+        "City": "Houston",
+        "State": "TX"
+    },
+    {
+        "Name": "Mike Brown",
+        "DOB": "06/15/1995",
+        "Height": "6'1\"",
+        "City": "Philadelphia",
+        "State": "PA"
+    }
+]
